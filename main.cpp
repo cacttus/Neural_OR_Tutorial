@@ -2,8 +2,7 @@
 * 
 *   Simple Perceptron Test
 *   Tutorial: https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf
-*   12/29/2019
-*   
+*
 *   A simple C++ example of a neural network that trains a logical OR function
 *   Input: 10, 01, 11, 00 
 *   Output: 1,  1,  1,  0
