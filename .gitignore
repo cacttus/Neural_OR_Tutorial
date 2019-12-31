@@ -1,0 +1,11 @@
+/Debug/
+/tmp/
+/lib/
+/.vs/
+*.ilk
+*.iobj
+*.ipdb
+*.pdb
+*.user
+
+
